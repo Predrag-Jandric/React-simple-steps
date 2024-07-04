@@ -4,12 +4,12 @@
 
 body {
   font-family: sans-serif;
-  color: #333;
+  color: light;
 }
 
 .steps {
   width: 600px;
-  background-color: #f7f7f7;
+  background-color: lightsteelblue;
   border-radius: 7px;
   padding: 25px 100px;
   margin: 100px auto;
@@ -32,7 +32,7 @@ body {
 }
 
 .numbers .active {
-  background-color: #7950f2;
+  background-color: #5070f2;
   color: #fff;
 }
 
@@ -77,15 +77,15 @@ h3 {
 
 .close {
   position: absolute;
-  top: 16px;
-  right: 16px;
+  top: 1rem;
+  right: 3rem;
   border: none;
   background: none;
   cursor: pointer;
-  font-size: 40px;
+  font-size: 50px;
   color: inherit;
 }
 
 .close:hover {
-  color: #7950f2;
+  color: #5070f2;
 }
