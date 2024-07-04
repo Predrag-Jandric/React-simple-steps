@@ -1,6 +1,6 @@
 # React - Step Sequencer
 
-# 🔗 [Live Preview]()
+# 🔗 [Live Preview](https://gentle-panda-e2b366.netlify.app/)
 
 ![Design preview](public/preview.gif)
 
